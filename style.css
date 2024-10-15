@@ -12,4 +12,8 @@ justify-content: center;
 .nav-lista{
     display: flex;
     list-style: none;
+    font-size: 40px;
+    gap: 28px;
+    text-transform: uppercase;
+    justify-content: center;
 }
